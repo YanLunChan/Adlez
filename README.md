@@ -38,6 +38,6 @@ A vibrant and challenging 2D bullet hell shooter built in Unity, focused on tigh
 *   Tools: Unity Editor, Visual Studio.
 *   Version Control: Unity Collaborate.
 
-[-Download Here-]([https://the-url-goes-here.com](https://github.com/YanLunChan/Adlez/releases/tag/v.1))
+[-Download Here-](https://github.com/YanLunChan/Adlez/releases/tag/v.1)
 
 <img width="1425" height="802" alt="image" src="https://github.com/user-attachments/assets/b2b87865-16eb-4833-b844-34779cde2cbf" />
